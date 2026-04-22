@@ -1,4 +1,4 @@
-<img align="right" width="250" src="assets/svg/logo-gematik-developer-portal.svg"/><br/>
+<img align="right" width="250" src="assets/logo-gematik-developer-portal.svg"/><br/>
 
 # Examples of Pact integrations
 
