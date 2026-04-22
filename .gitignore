@@ -1,0 +1,3 @@
+/.idea/
+/java-pact-example/src/test/resources/pactconfig-local.properties
+/java-pact-example/target/
